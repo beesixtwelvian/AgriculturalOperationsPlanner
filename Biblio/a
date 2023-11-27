@@ -1,1 +1,235 @@
-a
+@article{1995_Miranda,
+  title = {A Winding Number and Point-in-Polygon Algorithm},
+  author = {David D. Alciatore and Rick Miranda},
+  journal = {Department of Mechanical Engineering, Department of Mathematics, Colorado State University},
+  year = {2009},
+  url = {https://www.engr.colostate.edu/~dga/documents/papers/point_in_polygon.pdf},
+}
+
+@book{2010_GeoPreciAgri,
+  title = {Geostatistical Applications for Precision Agriculture},
+  author = {Margaret A. Oliver},
+  year = {2010},
+  publisher = {Springer},
+  pages = {331},
+}
+
+@article{2013_Olivier,
+  title = {Precision Agriculture and Geostatistics: How to Manage Agriculture More Exactly},
+  author = {Margaret A. Oliver},
+  journal = {Royal Statistical Society},
+  volume = {10},
+  number = {2},
+  pages = {17-22},
+  year = {2013},
+  month = {April},
+  doi = {10.1111/j.1740-9713.2013.00646.x},
+}
+
+@article{2018_Bangui,
+  title = {An Extension to Winding Number and Point-in-Polygon Algorithm},
+  author = {G. Naresh Kumar and Mallikarjun. Bangi},
+  journal = {IFAC PapersOnLine},
+  volume = {51},
+  number = {1},
+  pages = {548-553},
+  year = {2018},
+  organization = {IFAC},
+  address = {Hyderabad, India},
+  doi = {10.1016/j.ifacol.2018.03.093},
+}
+
+@inproceedings{2004_Kocher,
+  title = {Machinery Performance Assessment Based on Records of Geographic Position},
+  author = {Viacheslav I. Adamchuk and Robert D. Grisso and Michael F. Kocher},
+  booktitle = {Proceedings of the 2004 ASAE/CSAE Annual International Meeting},
+  year = {2004},
+  address = {Ottawa, Ontario, Canada},
+  month = {August},
+  organization = {ASAE/CSAE},
+}
+
+@article{2008_Bochtis,
+  title = {Minimising the Non-working Distance Traveled by Machines Operating in a Headland Field Pattern},
+  author = {D.D. Bochtis and S.G. Vougioukas},
+  journal = {Biosystems Engineering},
+  volume = {101},
+  number = {1},
+  pages = {1-12},
+  year = {2008},
+  month = {September},
+  doi = {10.1016/j.biosystemseng.2008.06.008},
+}
+
+@incollection{2011_Kocher,
+  title = {Spatial Variability of Field Machinery Use and Efficiency},
+  author = {Viacheslav I. Adamchuk and Robert D. Grisso and Michael F. Kocher},
+  booktitle = {GIS Applications in Agriculture. Volume Two. Nutrient Management for Energy Efficiency},
+  editor = {D. E. Clay and J. F. Shanahan},
+  year = {2011},
+  publisher = {CRC Press},
+  address = {Boca Raton, Florida},
+  pages = {135-146},
+  note = {Originally presented at the 2004 ASAE Annual International Meeting as Paper No. 041149},
+}
+
+@phdthesis{2012_Zandonadi,
+  title = {Computational Tools for Improving Route Planning in Agricultural Field Operations},
+  author = {Rodrigo S. Zandonadi},
+  school = {University of Kentucky},
+  year = {2012},
+  url = {https://uknowledge.uky.edu/bsc_etds/3},
+}
+
+@techreport{2013_Jensen,
+  title = {Algorithms for Operational Planning of Agricultural Field Operations},
+  subtitle = {Mechanical Engineering},
+  author = {Martin Andreas Falk Jensen},
+  institution = {Department of Engineering – Mechanical Engineering, Aarhus University},
+  type = {Technical report},
+  number = {ME-TR-3},
+  year = {2013},
+  pages = {19},
+  month = {September},
+  url = {http://www.eng.au.dk},
+}
+
+@article{2013_Vasek,
+  title = {Determining the guidance system accuracy with the support of a large GNSS dataset},
+  author = {V. Rataj and J. Galambošová and M. Vašek},
+  journal = {Research in Agricultural Engineering},
+  year = {2013},
+  volume = {59},
+  pages = {S65-S70},
+  note = {Special Issue},
+}
+
+@phdthesis{2015_Zhou,
+  title = {Simulation Modelling for In-field Planning of Sequential Machinery Operations in Cropping Systems},
+  author = {Kun Zhou},
+  school = {Aarhus University, Department of Engineering, Denmark},
+  year = {2015},
+  isbn = {978-87-93237-69-8 (Ebook)},
+  publisher = {River Publishers},
+  address = {Niels Jernes Vej 10, 9220 Aalborg Ø, Denmark},
+  url = {http://www.riverpublishers.com},
+  copyright = {Copyright 2015 Kun Zhou},
+}
+
+@online{2016_ANR,
+    author = {{ICAN}},
+    publisher = {Institut Convergences en Agriculture Numérique},
+    url = {https://anr.fr/ProjetIA-16-CONV-0004},
+}
+
+@article{2020_Zhou,
+  title = {Decision Support Tool for Operational Planning of Field Operations},
+  author = {René Søndergaard Nilsson and Kun Zhou},
+  journal = {Journal Name},
+  year = {2020},
+  volume = {Volume Number},
+  number = {Issue Number},
+  pages = {Page Numbers},
+  doi = {DOI Number},
+  note = {Received: 14 December 2019; Accepted: 27 January 2020; Published: 4 February 2020},
+}
+
+@article{2021_Li,
+  title = {Field-road trajectory segmentation for agricultural machinery based on direction distribution},
+  author = {Ying Chen and Xiaoqiang Zhang and Caicong Wu and Guangyuan Li},
+  journal = {Computers and Electronics in Agriculture},
+  year = {2021},
+  volume = {186},
+  pages = {106180},
+  doi = {DOI Number},
+  url = {https://www.sciencedirect.com/science/article/pii/S0168169921001020},
+}
+
+@article{2021_Sirucek,
+  title = {Towards the Development and Verification of a 3D-Based Advanced Optimized Farm Machinery Trajectory Algorithm},
+  author = {Tomáš Řezník and Lukáš Herman and Martina Klocova and Filip Leitner},
+  journal = {Sensors},
+  year = {2021},
+  month = {April},
+  doi = {10.3390/s21092980},
+}
+
+@article{2022_Sorensen,
+  title = {In-Field Route Planning Optimisation and Performance Indicators of Grain Harvest Operations},
+  author = {Michael Nørremark and René Søndergaard Nilsson and Claus Aage Grøn Sørensen},
+  journal = {Agronomy},
+  year = {2022},
+  volume = {12},
+  pages = {1151},
+  doi = {10.3390/agronomy12051151},
+  url = {https://www.mdpi.com/2073-4395/12/5/1151},
+  note = {Received: 16 March 2022; Accepted: 28 April 2022; Published: 10 May 2022},
+}
+
+@audio{2022_Howe,
+  title = {The Satellite-Free Alternative to GPS},
+  author = {Shamini Bundell and Nick Petrić Howe},
+  year = {2022},
+  month = {November},
+  day = {23},
+  howpublished = {Nature (podcast)},
+}
+
+@article{2023_Naud,
+  title = {Using VRPSolver to efficiently solve the Differential Harvest Problem},
+  author = {Gabriel Volte and Eric Bourreau and Rodolphe Giroudeau and Olivier Naud},
+  journal = {Computers and Operations Research},
+  year = {2023},
+  volume = {149},
+  pages = {106029},
+  doi = {10.1016/j.cor.2022.106029},
+  note = {HAL Id: hal-03880519},
+  url = {https://hal.science/hal-03880519},
+  submitted = {1 Dec 2022},
+}
+
+@article{2023_Bruin,
+  title = {Fields2Cover: An open-source coverage path planning library for unmanned agricultural vehicles},
+  author = {Gonzalo Mier and João Valente and Sytze de Bruin},
+  journal = {IEEE Robotics and Automation Letters},
+  year = {2023},
+  note = {Preprint version. Accepted February, 2023. This is the author's version which has not been fully edited, and content may change prior to final publication.},
+  doi = {10.1109/LRA.2023.3248439},
+}
+
+@article{2023_Zhai,
+  title = {DR-XGBoost: An XGBoost model for field-road segmentation based on dual feature extraction and recursive feature elimination},
+  author = {Yuzhen Xiao and Guozhao Mo and Xiya Xiong and Jiawen Pan and Bingbing Hu and Caicong Wu and Weixin Zhai},
+  journal = {International Journal of Agricultural and Biological Engineering},
+  year = {2023},
+  volume = {16},
+  number = {3},
+  pages = {169},
+  url = {https://www.ijabe.org/article/DR-XGBoost-An-XGBoost-model-for-field-road-segmentation-based-on-dual-feature-extraction-and-recursive-feature-elimination},
+}
+
+@article{2023_Zhang,
+  title = {DR-XGBoost: An XGBoost model for field-road segmentation based on dual feature extraction and recursive feature elimination},
+  author = {Yuzhen Xiao and Guozhao Mo and Xiya Xiong and Jiawen Pan and Bingbing Hu and Caicong Wu and Weixin Zhai},
+  journal = {International Journal of Agricultural and Biological Engineering},
+  year = {2023},
+  volume = {16},
+  number = {3},
+  pages = {169},
+  url = {https://www.ijabe.org/article/DR-XGBoost-An-XGBoost-model-for-field-road-segmentation-based-on-dual-feature-extraction-and-recursive-feature-elimination},
+}
+
+@thesis{2023_Fennema,
+  title = {Coverage Path Planning on Headlands for Autonomous Field Operations},
+  author = {Rick Fennema},
+  school = {Wageningen University \& Research},
+  year = {2023},
+  month = {March},
+  number = {GIRS-2023-09},
+}
+
+@online{frederickscompany,
+  title = {frederickscompany.com},
+  author = {{F}redericks{C}ompany},
+  url = {https://www.frederickscompany.com/fr/markets/agricultural-vehicles/},
+}
